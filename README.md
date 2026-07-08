@@ -50,7 +50,7 @@ python-lab/
 ├── Lab3/
 ├── ...
 ├── README.md
-└── requirements.txt (optional)
+└── requirements.txt 
 ```
 
 ## Learning Outcomes
