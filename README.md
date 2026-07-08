@@ -1,7 +1,4 @@
 # PYTHON-LAB-
-Lab practice
-# Python Lab
-
 ## Overview
 This repository contains Python lab programs completed as part of the Python Programming course. The programs demonstrate fundamental programming concepts, problem-solving techniques, and Python syntax.
 
